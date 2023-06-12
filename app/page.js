@@ -5,12 +5,7 @@ export default function Home() {
     <div>
       <h1>MadhanKumar</h1>
       <h2>Protfolio</h2>
-      <div class="container-fluid mt-3">
-        <div class="row">
-          <div class="col-sm-4">.col-sm-4</div>
-          <div class="col-sm-8">.col-sm-8</div>
-        </div>
-      </div>
+
     </div>
 
     // <main className="flex min-h-screen flex-col items-center justify-between p-24">
