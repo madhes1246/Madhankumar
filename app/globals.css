@@ -16,6 +16,22 @@
   }
 }
 
+.row {
+  width: auto;
+  background-color: aqua;
+}
+
+.col-sm-4 {
+  width: 40%;
+  background-color: yellow;
+}
+
+.col-sm-8 {
+  width: 60%;
+  float: right;
+  background-color: blue;
+}
+
 /* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
